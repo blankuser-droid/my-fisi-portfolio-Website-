@@ -8,7 +8,7 @@ Eine einfache, responsive digitale Visitenkarte mit einer Funktion zum Umschalte
 * **JavaScript** – Logik für das Umschalten des Farbschemas.
 
 ## 🚀 Live-Demo
-Sie können sich die fertige Website live unter folgendem Link ansehen: [LINK_ZU_IHRER_WEBSITE] *(wie Sie diesen erstellen – siehe unten)*
+Sie können sich die fertige Website live unter folgendem Link ansehen: "http://127.0.0.1:5500/index.html" *(wie Sie diesen erstellen – siehe unten)*
 
 ## 💻 Lokaler Start
 1. Klonen Sie das Repository: `git clone https://github.com`
