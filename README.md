@@ -14,3 +14,8 @@ Sie können sich die fertige Website live unter folgendem Link ansehen: "http://
 1. Klonen Sie das Repository: `git clone https://github.com`
 2. Öffnen Sie den Projektordner in VS Code.
 3. Starten Sie die Datei `index.html` (es wird empfohlen, die Erweiterung **Live Server** zu verwenden).
+
+## Zweck des Projekts:
+- Demonstration von Grundkenntnissen in der Webentwicklung und im Webdesign.
+- Präsentation meines Profils und meiner Motivation für die Ausbildung zum **Fachinformatiker für Systemintegration**.
+- Verständnis von strukturiertem Code und responsivem Design.
